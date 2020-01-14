@@ -39,12 +39,17 @@
 	<li><strong>Frustrations:</strong>
 		<ul>
 			<li>
-				Doesn't want to have to donate to have his chat message read.
+				Doesn't like to watch  ads on subscribed channels.
 			</li>
 		</ul>
 		<ul>
 			<li>
-				Can't use gift card to donate.
+				Wants all his favorite streamers in the sam place.
+			</li>
+		</ul>
+		<ul>
+			<li>
+				Wants to be able to view streamers only playing a certain game.
 			</li>
 		</ul>
 	</li>
