@@ -22,12 +22,46 @@
 <ul>
 	<li>
 		Leeroy enters Twitch.com into his preferred internet browser.
+	</li>
+	<li>
 		Twitch.com pulls up onto his monitor.
+	</li>
+	<li>
 		Leeroy clicks on loltyler1's live channel on Twitch.
+	</li>
+	<li>
 		Twitch.com returns back and directs him to loltyler1's channel.
-		Leeroy sees the "Subscribe" button at the top of this page.
+	</li>
+	<li>
+		Leeroy sees and clicks the "Subscribe" button at the top of this page.
+	</li>
+	<li>
+		Twitch.com's server responds by opening another window showing Leeroy what he gets for subscribing and alerting him it will cost $5 a month.
+	</li>
+	<li>
+		Leeroy clicks the Subscribe button again in the top right of the new window.
+	</li>
+	<li>
+		The server responds back letting him know he is now subscribed to loltyler1 with a small message saying congratulations and what he can now do with his subscription.
+	</li>
+	<li>
+		The server asks Leeroy if he wants the streamer to know he just subscribed.
+	</li>
+	<li>
+		Leeroy sees and clicks "share" and writes a brief message and hits "send".
+	</li>
+	<li>
+		Twitch responds by sending the message so an animation appears on stream and loltyler1 is able to see it.
+	</li>
+	<li>
+		Loltyler1 thanks Leeroy for his new subscription.
+	</li>
+	<li>
+		Leeroy is now a loltyler1 subscriber and can now use channel emotes.
 	</li>
 </ul>
+
+<p><strong>Frequency of Use:</strong>5-7 times a week.</p>
 
 <br>
 
