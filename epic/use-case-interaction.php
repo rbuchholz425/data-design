@@ -66,7 +66,7 @@
 <br>
 
 <p>
-	Click the links to go back:
+	Select a link to continue:
 </p>
 
 <p><a href="./index.php">Start Page</a> </p>
@@ -74,3 +74,5 @@
 <p><a href="./persona.php">Persona</a> </p>
 
 <p><a href="./user-story.php">User Story</a> </p>
+
+<p><a href="./conceptual-model.html">Conceptual Model</a> </p>
