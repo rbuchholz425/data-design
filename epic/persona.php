@@ -11,6 +11,7 @@
 	  <br>
 
 <h2> About:</h2>
+
 <ul>
 	<li><strong>Name:</strong>Leeroy Jenkins</li>
 	<li><strong>Age:</strong>45</li>
@@ -20,34 +21,28 @@
 	<li><strong>Technology:</strong> Phone; Samsung Galaxy S10. Laptop; Alienware M17. OS: Windows 10.</li>
 	<li><strong>Attitude:</strong> Likes to spam emotes on various chats of streamers such as loltyler1, DrDisrespect and Shorud. Prefers not to donate. Enjoys watching for long hours.</li>
 	<li><strong>Needs/Goals/Features:</strong>
+
 		<ul>
 			<li>
 				Wants to be able to spam emotes when thinking something is funny or dumb.
 			</li>
-		</ul>
-		<ul>
 			<li>
 				Be able to interact with others in the chat of said streamer.
 			</li>
-		</ul>
-		<ul>
 			<li>
 				Wants to be able to sub to streamers easily in order to use emotes.
 			</li>
 		</ul>
 	</li>
+
 	<li><strong>Frustrations:</strong>
 		<ul>
 			<li>
 				Doesn't like to watch  ads on subscribed channels.
 			</li>
-		</ul>
-		<ul>
 			<li>
 				Wants all his favorite streamers in the sam place.
 			</li>
-		</ul>
-		<ul>
 			<li>
 				Wants to be able to view streamers only playing a certain game.
 			</li>
@@ -68,3 +63,5 @@
 <p><a href="./use-case-interaction.php">Use Case Interaction</a> </p>
 
 <p><a href="./conceptual-model.html">Conceptual Model</a> </p>
+
+</body>
