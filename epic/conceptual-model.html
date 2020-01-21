@@ -20,39 +20,27 @@
 		profileId (PK)
 	</li>
 	<li>
-		profileEmail
+		profileChannel
 	</li>
 	<li>
 		profileCreditCard
 	</li>
 	<li>
-		profileUserName
+		profileEmail
 	</li>
 	<li>
-		profileChannel
+		profileHash
+	</li>
+	<li>
+		profilePicture
 	</li>
 	<li>
 		profilePrimeToken
 	</li>
 	<li>
-		profilePicture
+		profileUserName
 	</li>
-</ul>
 
-<p></p>
-
-<p><strong>Subscribe:</strong></p>
-
-<ul>
-	<li>
-		subscriberId (PK)
-	</li>
-	<li>
-		subscriberProfileDate (FK)
-	</li>
-	<li>
-		subscriberProfileId
-	</li>
 </ul>
 
 <p></p>
@@ -60,6 +48,9 @@
 <p><strong>Chat:</strong></p>
 
 <ul>
+	<li>
+		chatId (PK)
+	</li>
 	<li>
 		chatProfileId (FK)
 	</li>
@@ -69,15 +60,23 @@
 	<li>
 		chatProfileMessage
 	</li>
+</ul>
+
+<p></p>
+
+<p><strong>Subscribe:</strong></p>
+
+<ul>
 	<li>
-		chatSubscriberId
+		subscriberChatId (FK)
 	</li>
 	<li>
-		chatSubscriberEmote
+		subscriberProfileId (FK)
 	</li>
 	<li>
-		chatSubscriberMessage
+		subscriberProfileDate
 	</li>
+
 </ul>
 
 <p></p>
@@ -105,7 +104,7 @@
 
 <p></p>
 
-<img src="data-design-entity-relationship-diagram.PNG" alt="ERD">
+<img src="ERD%20REVISED.png" alt="ERD">
 
 <br>
 
